@@ -68,7 +68,7 @@ Strong background in **Python, Java, AWS, FastAPI, Spring Boot**, and **MLOps wo
 ## 🤝 Open to Opportunities
 
 - Software Engineer
-- - Machine Learning Engineer
+- Machine Learning Engineer
 - Applied ML Engineer
 - Backend Engineer (ML-focused)
 - AI Engineer / ML Platform Engineer
