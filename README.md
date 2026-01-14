@@ -46,13 +46,13 @@ Strong background in **Python, Java, AWS, FastAPI, Spring Boot**, and **MLOps wo
 - Large-scale Data Processing
 
 **Cloud & DevOps**
-- AWS S3, EC2, IAM, SageMaker
+- AWS S3, EC2,SageMaker
 - Docker & Containerization
 - Kubernetes (Basics)
 - CI/CD Fundamentals
 
 **Databases & Messaging**
-- MySQL, MongoDB, Redis
+- MySQL, MongoDB
 - Apache Kafka
 
 ---
@@ -66,6 +66,7 @@ Strong background in **Python, Java, AWS, FastAPI, Spring Boot**, and **MLOps wo
 ---
 
 ## 🤝 Open to Opportunities
+-Software Engineer
 - Machine Learning Engineer
 - Applied ML Engineer
 - Backend Engineer (ML-focused)
